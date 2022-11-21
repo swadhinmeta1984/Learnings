@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.2",
+    "mysql": "^2.18.1"
+  }
+}
