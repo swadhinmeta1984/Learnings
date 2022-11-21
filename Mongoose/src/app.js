@@ -50,7 +50,7 @@ const getDocument = async() => {
 const updateDocument = async(_id)=> {
      
     const data = await table.updateOne({_id},{
-    $set:{age: 500}
+    $set:{age: 400}
     });
     console.log(udpated);
 }
